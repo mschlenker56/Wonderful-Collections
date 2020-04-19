@@ -1,0 +1,7 @@
+if name == 'Alice':
+  print('Hi, Alice.')
+elif age < 18:
+  print('You are not Alice.')
+elif age > 80:
+  print('You are not Alice, grannie.')
+ 
